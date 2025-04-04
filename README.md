@@ -4,6 +4,7 @@ Template para os projetos do curso de graduação em Logística, ensinando na ut
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
+
 # Índice
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
@@ -12,8 +13,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
+
 # Projeto (API) 
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior dos anos de 2022 e 2023, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Comexstat) que foram tratados em python. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional.
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -27,6 +30,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 |  Team Member  | Maria Clara Eleutério      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-eleuterio-33b309328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Maeleuterio)          |
 
 
+
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
@@ -34,6 +38,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
+
 
 ## Tecnologias Utilizadas
 
@@ -45,6 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
 * Comexstat
 * Chatgpt
+
 
 # Backlog do produto
 
@@ -80,6 +86,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Finalize e aprovação.
+
 
 ## Product backlog
 
