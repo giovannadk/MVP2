@@ -111,7 +111,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 09/04/2025 | em andamento | [MVP](https://github.com/vitoriafv/MVP-1.git) | 
+|01 | 09/04/2025 | em andamento | [MVP](https://github.com/giovannadk/MVP1.git) | 
 |02|  23/04/2025| a fazer|[MVP](https://) | 
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |04 - Entrega Final| 25/06/2025 |a fazer |[MVP](https://)  | 
