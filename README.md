@@ -38,12 +38,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Github (backlog);       |
-> Python (análise de dados e filtragem);|
-> Power BI (visualização dos dados);|
+* Github (backlog);       
+* Google Colab Python (análise de dados e filtragem);
+* Power BI (visualização dos dados);
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+* Comexstat
+* Chatgpt
 
 # Backlog do produto
 
@@ -51,7 +52,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
-- [ ] Desenvolva o design;
+- [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Finalize e aprovação.
