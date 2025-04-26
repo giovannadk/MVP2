@@ -111,7 +111,7 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|00| 12/03/2025 | Kickoff| concluído|
+|00| 12/03/2025 |concluído| Kickoff|
 |01 | 09/04/2025 | concluído | [MVP](https://github.com/giovannadk/MVP1.git) | 
 |02|  30/04/2025| em andamento|[MVP](https://) | 
 |03| 21/05/2025 | a fazer|[MVP](https://) | 
