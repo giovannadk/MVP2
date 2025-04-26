@@ -64,10 +64,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Finalize e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [x] Documento passo a passo;
+- [x] Treinamento com os professores;
+- [x] Treinamento com os alunos;
+- [x] Monitoramento e ajustes.
       
 ## Sprint 3
 - [ ] Defina o propósito do template;
@@ -111,8 +111,9 @@ Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
+|00| 12/03/2025 | Kickoff| concluído|
 |01 | 09/04/2025 | concluído | [MVP](https://github.com/giovannadk/MVP1.git) | 
-|02|  23/04/2025| em andamento|[MVP](https://) | 
-|03| 14/05/2025 | a fazer|[MVP](https://) | 
-|04 - Entrega Final| 25/06/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+|02|  30/04/2025| em andamento|[MVP](https://) | 
+|03| 21/05/2025 | a fazer|[MVP](https://) | 
+|04 - Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://)  | 
+
