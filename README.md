@@ -46,13 +46,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Github (backlog);       
 * Google Colab Python (análise de dados e filtragem);
 * Power BI (visualização dos dados);
-* Excel (segmentação de dados das subdivisões dos municípios)
+* Excel (segmentação de dados das subdivisões dos municípios).
   
  ### Tecnologias da Informação
-* Comexstat
-* Chatgpt
-* Gemini IA
-* SEADE
+* Comexstat;
+* Chatgpt;
+* Gemini IA;
+* SEADE.
 
 
 # Backlog do produto
